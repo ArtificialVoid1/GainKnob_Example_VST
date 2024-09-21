@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vstgui-ui-description version="1">
+
+	<control-tags>
+		<control-tag name="Gain" tag="100"/>
+	</control-tags>
+	
+	<template name="view" size="150, 150" background-color="#555555">
+		<view class="CKnob" control-tag="Gain" size="150,150" origin="0,0"/>
+	</template>
+
+</vstgui-ui-description>
